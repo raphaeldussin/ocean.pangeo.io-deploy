@@ -1,0 +1,9 @@
+jupyterhub:
+  proxy:
+    https:
+      hosts:
+      - dev-ocean.pangeo.io
+      letsencrypt:
+        contactEmail: raphael.dussin@gmail.com
+    service:
+      loadBalancerIP: 35.238.119.225
