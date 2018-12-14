@@ -6,4 +6,4 @@ jupyterhub:
       letsencrypt:
         contactEmail: raphael.dussin@gmail.com
     service:
-      loadBalancerIP: 35.238.119.225
+      loadBalancerIP: 104.155.148.109
